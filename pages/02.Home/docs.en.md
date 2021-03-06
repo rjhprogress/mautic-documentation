@@ -26,7 +26,7 @@ To help you navigate your way through Mautic, we provide the following types of 
 
 
 
-Before your begin your journey with Mautic, visit the follow topics:
+Before you begin your journey with Mautic, visit the follow topics:
  - [Overview of Mautic][overview-of-mautic]
  - [Contributing to Mautic][contributing]
  - [License Information][mautic-doc-license]
